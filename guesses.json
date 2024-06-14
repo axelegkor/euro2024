@@ -1,0 +1,5595 @@
+{ 
+  "guesses": [
+      {
+        "name": "axel",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+        
+        
+      },
+
+      {
+        "name": "torje",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 5,
+              "a": 1
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 5
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          }
+        ]
+      },
+
+      {
+        "name": "stian",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          }
+        ]
+      },
+      
+
+      {
+        "name": "theodor",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "name": "kristin",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "u",
+            "score": {
+              "h": 3,
+              "a": 3
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 4
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          }
+        ]
+      },
+      {
+        "name": "adrian",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 3,
+              "a": 3
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 3,
+              "a": 3
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "name": "vilde",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "sondre",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 4
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      
+      {
+        "name": "ingeborg",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 4
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      
+      {
+        "name": "thomas",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          }
+        ]
+      },
+
+      {
+        "name": "kristine",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          }
+        ]
+      },
+
+      {
+        "name": "ragnhild",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          }
+        ]
+      },
+
+      {
+        "name": "rebekka",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "gpt",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      
+      {
+        "name": "ina",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          }
+        ]
+      },
+
+      {
+        "name": "per",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 3
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "name": "torjus",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "name": "karl",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 3
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 0,
+              "a": 0
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 0
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 3
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          }
+        ]
+      },
+      {
+        "name": "sivert",
+        "groupMatches": [
+          {
+            "name": "TysSko",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UngSve",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaKro",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "ItaAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "PolNed",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnDan",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SerEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "RomUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "BelSvk",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "OstFra",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrGeo",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PorTsj",
+            "res": "h",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "KroAlb",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 0
+            }
+          },
+          {
+            "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "PolOst",
+            "res": "h",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "NedFra",
+            "res": "b",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoTsj",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "TyrPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "BelRom",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "SveTys",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SkoUng",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "AlbSpa",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 3
+            }
+          },
+          {
+            "name": "KroIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "FraPol",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 0
+            }
+          },
+          {
+            "name": "NedOst",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "DanSer",
+            "res": "h",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "EngSvn",
+            "res": "h",
+            "score": {
+              "h": 3,
+              "a": 1
+            }
+          },
+          {
+            "name": "SvkRom",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 1
+            }
+          },
+          {
+            "name": "UkrBel",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "GeoPor",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 4
+            }
+          },
+          {
+            "name": "TsjTyr",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          }
+        ]
+      }
+            
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+  ]
+}
