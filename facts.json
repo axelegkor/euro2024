@@ -29,24 +29,24 @@
       }
     },
     "PolNed": {
-      "res": "x",
+      "res": "b",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 1,
+        "a": 2
       }
     },
     "SvnDan": {
-      "res": "x",
+      "res": "u",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 1,
+        "a": 1
       }
     },
     "SerEng": {
-      "res": "x",
+      "res": "b",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 0,
+        "a": 1
       }
     },
     "RomUkr": {
