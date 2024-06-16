@@ -8,24 +8,24 @@
       }
     },
     "UngSve": {
-      "res": "x",
+      "res": "b",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 1,
+        "a": 3
       }
     },
     "SpaKro": {
-      "res": "x",
+      "res": "h",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 3,
+        "a": 0
       }
     },
     "ItaAlb": {
-      "res": "x",
+      "res": "h",
       "score": {
-        "h": 9,
-        "a": 9
+        "h": 2,
+        "a": 1
       }
     },
     "PolNed": {
