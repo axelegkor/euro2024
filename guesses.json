@@ -291,57 +291,7 @@
               "a": 1
             }
           }
-        ],
-        "questions": {
-          "1.4.1": "kane",
-          "1.4.2": 6,
-          "1.4.3": "mbappe",
-          "1.4.4": 5,
-          "1.4.5": "ronaldo",
-          "1.4.6": 3,
-          "1.4.7": "nei",
-          "2.2.1": 23,
-          "2.2.2": "kane",
-          "2.2.3": "england",
-          "2.2.4": "ja",
-          "2.2.5": 2,
-          "2.2.6": "nei",
-          "3.2.1": 11,
-          "3.2.2": "mbappe",
-          "3.2.3": "england",
-          "3.2.4": "bodø/glimt",
-          "3.2.5": 1,
-          "4.2.1": "ja",
-          "4.2.2": "nei",
-          "4.2.3": 0,
-          "4.2.4": "kane",
-          "4.2.5": 7,
-          "4.2.6": "nei",
-          "5.2.1": "mbappe",
-          "5.2.2": "ja",
-          "5.2.3": "nei",
-          "5.2.4": "nei",
-          "5.2.5": "ja",
-          "5.2.6": "nei",
-          "5.2.7": "bayern münchen",
-          "6.3.1": "kane",
-          "6.3.2": "fernandes",
-          "6.3.3": "tyskland",
-          "6.3.4": "nei",
-          "6.3.5": "ja",
-          "6.3.6": "ja",
-          "6.3.7": "norris",
-          "6.3.8": "nei",
-          "6.3.9": "nei",
-          "6.3.10": "italia",
-          "6.3.11": "three lions",
-          "6.3.12": "nei",
-          "6.3.13": "kroatia",
-          "6.3.14": "yamal"
-        },
-        "leaderGuess": "axel"
-        
-        
+        ]
       },
 
       {
@@ -1977,7 +1927,7 @@
           },
           {
             "name": "NedFra",
-            "res": "u",
+            "res": "b",
             "score": {
               "h": 1,
               "a": 1
@@ -2057,7 +2007,7 @@
           },
           {
             "name": "DanSer",
-            "res": "u",
+            "res": "h",
             "score": {
               "h": 0,
               "a": 0
@@ -2406,7 +2356,7 @@
             "name": "TysSko",
             "res": "h",
             "score": {
-              "h": 2,
+              "h": 3,
               "a": 1
             }
           },
@@ -2414,7 +2364,7 @@
             "name": "UngSve",
             "res": "b",
             "score": {
-              "h": 1,
+              "h": 0,
               "a": 2
             }
           },
@@ -2423,54 +2373,54 @@
             "res": "h",
             "score": {
               "h": 2,
-              "a": 0
+              "a": 1
             }
           },
           {
             "name": "ItaAlb",
             "res": "h",
             "score": {
-              "h": 4,
-              "a": 1
+              "h": 3,
+              "a": 0
             }
           },
           {
             "name": "PolNed",
             "res": "b",
             "score": {
-              "h": 0,
+              "h": 1,
               "a": 2
             }
           },
           {
             "name": "SvnDan",
-            "res": "b",
+            "res": "u",
             "score": {
-              "h": 0,
-              "a": 3
+              "h": 1,
+              "a": 1
             }
           },
           {
             "name": "SerEng",
             "res": "b",
             "score": {
-              "h": 1,
+              "h": 0,
               "a": 2
             }
           },
           {
             "name": "RomUkr",
-            "res": "b",
+            "res": "u",
             "score": {
               "h": 1,
-              "a": 2
+              "a": 1
             }
           },
           {
             "name": "BelSvk",
             "res": "h",
             "score": {
-              "h": 3,
+              "h": 2,
               "a": 0
             }
           },
@@ -2479,15 +2429,15 @@
             "res": "b",
             "score": {
               "h": 1,
-              "a": 2
+              "a": 3
             }
           },
           {
             "name": "TyrGeo",
             "res": "h",
             "score": {
-              "h": 3,
-              "a": 0
+              "h": 2,
+              "a": 1
             }
           },
           {
@@ -2495,19 +2445,67 @@
             "res": "h",
             "score": {
               "h": 3,
-              "a": 0
+              "a": 1
             }
           },
           {
             "name": "KroAlb",
             "res": "h",
             "score": {
-              "h": 3,
-              "a": 1
+              "h": 2,
+              "a": 0
             }
           },
           {
             "name": "TysUng",
+            "res": "h",
+            "score": {
+              "h": 4,
+              "a": 0
+            }
+          },
+          {
+            "name": "SkoSve",
+            "res": "b",
+            "score": {
+              "h": 1,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvnSer",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "DanEng",
+            "res": "b",
+            "score": {
+              "h": 0,
+              "a": 2
+            }
+          },
+          {
+            "name": "SpaIta",
+            "res": "u",
+            "score": {
+              "h": 2,
+              "a": 2
+            }
+          },
+          {
+            "name": "SvkUkr",
+            "res": "u",
+            "score": {
+              "h": 1,
+              "a": 1
+            }
+          },
+          {
+            "name": "PolOst",
             "res": "h",
             "score": {
               "h": 2,
@@ -2515,74 +2513,26 @@
             }
           },
           {
-            "name": "SkoSve",
-            "res": "b",
-            "score": {
-              "h": 0,
-              "a": 1
-            }
-          },
-          {
-            "name": "SvnSer",
-            "res": "b",
-            "score": {
-              "h": 0,
-              "a": 2
-            }
-          },
-          {
-            "name": "DanEng",
-            "res": "b",
-            "score": {
-              "h": 2,
-              "a": 4
-            }
-          },
-          {
-            "name": "SpaIta",
-            "res": "u",
-            "score": {
-              "h": 1,
-              "a": 1
-            }
-          },
-          {
-            "name": "SvkUkr",
-            "res": "b",
-            "score": {
-              "h": 1,
-              "a": 2
-            }
-          },
-          {
-            "name": "PolOst",
-            "res": "u",
-            "score": {
-              "h": 2,
-              "a": 2
-            }
-          },
-          {
             "name": "NedFra",
-            "res": "b",
+            "res": "u",
             "score": {
               "h": 1,
-              "a": 2
+              "a": 1
             }
           },
           {
             "name": "GeoTsj",
             "res": "b",
             "score": {
-              "h": 0,
-              "a": 2
+              "h": 1,
+              "a": 3
             }
           },
           {
             "name": "TyrPor",
             "res": "b",
             "score": {
-              "h": 0,
+              "h": 1,
               "a": 3
             }
           },
@@ -2590,23 +2540,23 @@
             "name": "BelRom",
             "res": "h",
             "score": {
-              "h": 2,
+              "h": 3,
               "a": 0
             }
           },
           {
             "name": "SveTys",
-            "res": "u",
+            "res": "b",
             "score": {
-              "h": 0,
-              "a": 0
+              "h": 1,
+              "a": 2
             }
           },
           {
             "name": "SkoUng",
-            "res": "b",
+            "res": "h",
             "score": {
-              "h": 0,
+              "h": 2,
               "a": 1
             }
           },
@@ -2615,15 +2565,15 @@
             "res": "b",
             "score": {
               "h": 0,
-              "a": 4
+              "a": 3
             }
           },
           {
             "name": "KroIta",
-            "res": "b",
+            "res": "u",
             "score": {
-              "h": 0,
-              "a": 2
+              "h": 1,
+              "a": 1
             }
           },
           {
@@ -2631,23 +2581,23 @@
             "res": "h",
             "score": {
               "h": 3,
-              "a": 0
+              "a": 1
             }
           },
           {
             "name": "NedOst",
             "res": "h",
             "score": {
-              "h": 4,
+              "h": 2,
               "a": 0
             }
           },
           {
             "name": "DanSer",
-            "res": "u",
+            "res": "h",
             "score": {
               "h": 2,
-              "a": 2
+              "a": 1
             }
           },
           {
@@ -2662,8 +2612,8 @@
             "name": "SvkRom",
             "res": "u",
             "score": {
-              "h": 0,
-              "a": 0
+              "h": 1,
+              "a": 1
             }
           },
           {
@@ -2679,14 +2629,14 @@
             "res": "b",
             "score": {
               "h": 0,
-              "a": 4
+              "a": 3
             }
           },
           {
             "name": "TsjTyr",
-            "res": "u",
+            "res": "h",
             "score": {
-              "h": 1,
+              "h": 2,
               "a": 1
             }
           }
@@ -2914,7 +2864,7 @@
           },
           {
             "name": "KroIta",
-            "res": "u",
+            "res": "b",
             "score": {
               "h": 1,
               "a": 1
@@ -3008,7 +2958,7 @@
           },
           {
             "name": "SpaKro",
-            "res": "b",
+            "res": "h",
             "score": {
               "h": 1,
               "a": 2
@@ -3051,7 +3001,7 @@
             "res": "u",
             "score": {
               "h": 0,
-              "a": 0
+              "a": 1
             }
           },
           {
@@ -3112,7 +3062,7 @@
           },
           {
             "name": "SvnSer",
-            "res": "b",
+            "res": "u",
             "score": {
               "h": 1,
               "a": 2
@@ -3128,7 +3078,7 @@
           },
           {
             "name": "SpaIta",
-            "res": "u",
+            "res": "h",
             "score": {
               "h": 2,
               "a": 2
@@ -3208,7 +3158,7 @@
           },
           {
             "name": "KroIta",
-            "res": "u",
+            "res": "h",
             "score": {
               "h": 1,
               "a": 1
@@ -3248,7 +3198,7 @@
           },
           {
             "name": "SvkRom",
-            "res": "u",
+            "res": "b",
             "score": {
               "h": 2,
               "a": 2
@@ -3266,7 +3216,7 @@
             "name": "GeoPor",
             "res": "b",
             "score": {
-              "h": 0,
+              "h": 1,
               "a": 4
             }
           },
@@ -3660,7 +3610,7 @@
           },
           {
             "name": "TyrGeo",
-            "res": "h",
+            "res": "u",
             "score": {
               "h": 2,
               "a": 1
@@ -3710,8 +3660,8 @@
             "name": "DanEng",
             "res": "b",
             "score": {
-              "h": 1,
-              "a": 2
+              "h": 2,
+              "a": 3
             }
           },
           {
@@ -3782,8 +3732,8 @@
             "name": "SkoUng",
             "res": "u",
             "score": {
-              "h": 1,
-              "a": 1
+              "h": 0,
+              "a": 0
             }
           },
           {
@@ -3806,7 +3756,7 @@
             "name": "FraPol",
             "res": "h",
             "score": {
-              "h": 3,
+              "h": 2,
               "a": 1
             }
           },
@@ -3814,7 +3764,7 @@
             "name": "NedOst",
             "res": "h",
             "score": {
-              "h": 2,
+              "h": 1,
               "a": 0
             }
           },
@@ -3822,15 +3772,15 @@
             "name": "DanSer",
             "res": "h",
             "score": {
-              "h": 1,
-              "a": 0
+              "h": 2,
+              "a": 1
             }
           },
           {
             "name": "EngSvn",
             "res": "h",
             "score": {
-              "h": 2,
+              "h": 3,
               "a": 0
             }
           },
@@ -3855,7 +3805,7 @@
             "res": "b",
             "score": {
               "h": 0,
-              "a": 4
+              "a": 1
             }
           },
           {
@@ -4948,15 +4898,15 @@
             "name": "SveTys",
             "res": "b",
             "score": {
-              "h": 0,
+              "h": 1,
               "a": 2
             }
           },
           {
             "name": "SkoUng",
-            "res": "b",
+            "res": "h",
             "score": {
-              "h": 0,
+              "h": 2,
               "a": 1
             }
           },
@@ -4972,8 +4922,8 @@
             "name": "KroIta",
             "res": "b",
             "score": {
-              "h": 0,
-              "a": 1
+              "h": 1,
+              "a": 2
             }
           },
           {
@@ -4981,22 +4931,22 @@
             "res": "h",
             "score": {
               "h": 3,
-              "a": 2
+              "a": 0
             }
           },
           {
             "name": "NedOst",
             "res": "h",
             "score": {
-              "h": 1,
-              "a": 0
+              "h": 2,
+              "a": 1
             }
           },
           {
             "name": "DanSer",
             "res": "h",
             "score": {
-              "h": 1,
+              "h": 2,
               "a": 1
             }
           },
@@ -5004,7 +4954,7 @@
             "name": "EngSvn",
             "res": "h",
             "score": {
-              "h": 2,
+              "h": 3,
               "a": 0
             }
           },
@@ -5020,8 +4970,8 @@
             "name": "UkrBel",
             "res": "b",
             "score": {
-              "h": 0,
-              "a": 1
+              "h": 1,
+              "a": 3
             }
           },
           {
