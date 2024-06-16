@@ -22,10 +22,29 @@ def groupMatches(matches):
             gMPoints += 5
     return gMPoints
 
+def questions(questions):
+    qPoints = 0
+    for question, answer in questions.items():
+        if answer in facts["questions"][question]["answer"]:
+            qPoints += facts["questions"][question]["points"]
+    return qPoints
+
+def leaderGuess(guess, guesser):
+    if guess == guesser:
+        if guess in facts["leaderGuess"]:
+            return 30
+        else:
+            return -10
+    elif guess in facts["leaderGuess"]:
+        return 15
+    return 0
+
 def calculate_score(guess):
     name = guess["name"]
     score = 0
     score += groupMatches(guess["groupMatches"])
+    #score += questions(guess["questions"])
+    #score += leaderGuess(guess["leaderGuess"], name)
     return (name, score)
 
 def calculate_table():
