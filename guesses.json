@@ -4169,7 +4169,198 @@
               "a": 1
             }
           }
-        ]
+        ],
+        "questions": {
+          "1.4.1": {
+              "answer": "Kylian Mbappe",
+              "description": "gruppespill toppscorer"
+          },
+          "1.4.2": {
+              "answer": 5,
+              "description": "max antall mål i en kamp"
+          },
+          "1.4.3": {
+              "answer": "Begge",
+              "description": "Kane vs Mbappe"
+          },
+          "1.4.4": {
+              "answer": 3,
+              "description": "røde kort i gruppespillet"
+          },
+          "1.4.5": {
+              "answer": "Cristiano Ronaldo",
+              "description": "Portugisk toppscorer"
+          },
+          "1.4.6": {
+              "answer": 3,
+              "description": "Minste antall avanserende poeng"
+          },
+          "1.4.7": {
+              "answer": "Ja",
+              "description": "Slovakia støtte til Russland"
+          },
+          "2.2.1": {
+              "answer": 15,
+              "description": "Antall mål"
+          },
+          "2.2.2": {
+              "answer": "Harry Kane",
+              "description": "Toppscorer"
+          },
+          "2.2.3": {
+              "answer": "Frankrike",
+              "description": "Land med flest mål"
+          },
+          "2.2.4": {
+              "answer": "Nei",
+              "description": "Erna/Jonas innlegg"
+          },
+          "2.2.5": {
+              "answer": 2,
+              "description": "Antall røde kort"
+          },
+          "2.2.6": {
+              "answer": "Ja",
+              "description": "Keeper kort"
+          },
+          "3.2.1": {
+              "answer": 9,
+              "description": "Antall mål"
+          },
+          "3.2.2": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "3.2.3": {
+              "answer": "Frankrike",
+              "description": "Land med flest mål"
+          },
+          "3.2.4": {
+              "answer": "Molde",
+              "description": "Leder Eliteserien"
+          },
+          "3.2.5": {
+              "answer": 0,
+              "description": "Antall røde kort"
+          },
+          "4.2.1": {
+              "answer": "Ja",
+              "description": "Liverpool & United spillere"
+          },
+          "4.2.2": {
+              "answer": "Nei",
+              "description": "Ruud med i Wimbledon"
+          },
+          "4.2.3": {
+              "answer": 1,
+              "description": "Antall kamper med straffekonk"
+          },
+          "4.2.4": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "4.2.5": {
+              "answer": 4,
+              "description": "Gule kort"
+          },
+          "4.2.6": {
+              "answer": "Nei",
+              "description": "> 22 cornere"
+          },
+          "5.2.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "5.2.2": {
+              "answer": "Ja",
+              "description": "Avgjort på ordinær tid"
+          },
+          "5.2.3": {
+              "answer": "Nei",
+              "description": "Avgjøres i ekstraomganger"
+          },
+          "5.2.4": {
+              "answer": "Nei",
+              "description": "Avgjøres på straffer"
+          },
+          "5.2.5": {
+              "answer": "Ja",
+              "description": "Jurgen Klopp til stede"
+          },
+          "5.2.6": {
+              "answer": "Nei",
+              "description": "Banestormer"
+          },
+          "5.2.7": {
+              "answer": "Manchester City",
+              "description": "Klubblag med flest finalister"
+          },
+          "6.3.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "6.3.2": {
+              "answer": "Jude Bellingham",
+              "description": "Flest målgivende"
+          },
+          "6.3.3": {
+              "answer": "England",
+              "description": "Flest clean sheets"
+          },
+          "6.3.4": {
+              "answer": "Ja",
+              "description": "Thomas Muller mål"
+          },
+          "6.3.5": {
+              "answer": "Ja",
+              "description": "Ronaldo<Messi"
+          },
+          "6.3.6": {
+              "answer": "Ja",
+              "description": "Norsk landslagsspiller på tribunen"
+          },
+          "6.3.7": {
+              "answer": "Emmanuel Macron",
+              "description": "Kjendis under finalen"
+          },
+          "6.3.8": {
+              "answer": "Ja",
+              "description": "Lahm flere kamper enn Kroos"
+          },
+          "6.3.9": {
+              "answer": "Nei",
+              "description": "City straffet"
+          },
+          "6.3.10": {
+              "answer": "Polen",
+              "description": "Færrest baklengs"
+          },
+          "6.3.11": {
+              "answer": "Three Lions",
+              "description": "Sang på tribunen"
+          },
+          "6.3.12": {
+              "answer": "Nei",
+              "description": "England ryker på straffer"
+          },
+          "6.3.13": {
+              "answer": "Kroatia",
+              "description": "Beste østblokk-land"
+          },
+          "6.3.14": {
+              "answer": "Lamine Yamal",
+              "description": "Yngste målscorer"
+          }
+        },
+        "leaderGuess": "Vilde",
+        "advancing": {
+            "last16": ["Tyskland", "England", "Spania", "Italia", "Danmark", "Frankrike", "Belgia", "Kroatia", "Sveits", "Ungarn", "Polen", "Nederland", "Portugal", "Ukraina", "Tsjekkia", "Serbia"],
+            "quarter": ["Frankrike", "England", "Tyskland", "Nederland", "Spania", "Italia", "Danmark", "Portugal"],
+            "semi": ["Tyskland", "England", "Frankrike", "Italia"],
+            "final": ["Frankrike", "England"],
+            "winner": ["Frankrike"]
+        },
+        "team": ["Mike Maignan", "Ibrahima Konate", "Antonio Rudiger", "Virgil Van Dijk", "Trent Alexander-Arnold", "Toni Kroos", "Jude Bellingham", "Jamal Musiala", "Florian Wirtz", "Harry Kane", "Kylian Mbappe"]
       },
       
       {
@@ -4463,7 +4654,198 @@
               "a": 2
             }
           }
-        ]
+        ],
+        "questions": {
+          "1.4.1": {
+              "answer": "Kylian Mbappe",
+              "description": "gruppespill toppscorer"
+          },
+          "1.4.2": {
+              "answer": 6,
+              "description": "max antall mål i en kamp"
+          },
+          "1.4.3": {
+              "answer": "Kylian Mbappe",
+              "description": "Kane vs Mbappe"
+          },
+          "1.4.4": {
+              "answer": 2,
+              "description": "røde kort i gruppespillet"
+          },
+          "1.4.5": {
+              "answer": "Diogo Jota",
+              "description": "Portugisk toppscorer"
+          },
+          "1.4.6": {
+              "answer": 4,
+              "description": "Minste antall avanserende poeng"
+          },
+          "1.4.7": {
+              "answer": "Ja",
+              "description": "Slovakia støtte til Russland"
+          },
+          "2.2.1": {
+              "answer": 21,
+              "description": "Antall mål"
+          },
+          "2.2.2": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "2.2.3": {
+              "answer": "Frankrike",
+              "description": "Land med flest mål"
+          },
+          "2.2.4": {
+              "answer": "Nei",
+              "description": "Erna/Jonas innlegg"
+          },
+          "2.2.5": {
+              "answer": 0,
+              "description": "Antall røde kort"
+          },
+          "2.2.6": {
+              "answer": "Nei",
+              "description": "Keeper kort"
+          },
+          "3.2.1": {
+              "answer": 11,
+              "description": "Antall mål"
+          },
+          "3.2.2": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "3.2.3": {
+              "answer": "Frankrike",
+              "description": "Land med flest mål"
+          },
+          "3.2.4": {
+              "answer": "Bodø/Glimt",
+              "description": "Leder Eliteserien"
+          },
+          "3.2.5": {
+              "answer": 0,
+              "description": "Antall røde kort"
+          },
+          "4.2.1": {
+              "answer": "Ja",
+              "description": "Liverpool & United spillere"
+          },
+          "4.2.2": {
+              "answer": "Nei",
+              "description": "Ruud med i Wimbledon"
+          },
+          "4.2.3": {
+              "answer": 1,
+              "description": "Antall kamper med straffekonk"
+          },
+          "4.2.4": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "4.2.5": {
+              "answer": 7,
+              "description": "Gule kort"
+          },
+          "4.2.6": {
+              "answer": "Ja",
+              "description": "> 22 cornere"
+          },
+          "5.2.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "5.2.2": {
+              "answer": "Ja",
+              "description": "Avgjort på ordinær tid"
+          },
+          "5.2.3": {
+              "answer": "Nei",
+              "description": "Avgjøres i ekstraomganger"
+          },
+          "5.2.4": {
+              "answer": "Nei",
+              "description": "Avgjøres på straffer"
+          },
+          "5.2.5": {
+              "answer": "Nei",
+              "description": "Jurgen Klopp til stede"
+          },
+          "5.2.6": {
+              "answer": "Ja",
+              "description": "Banestormer"
+          },
+          "5.2.7": {
+              "answer": "Real Madrid",
+              "description": "Klubblag med flest finalister"
+          },
+          "6.3.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "6.3.2": {
+              "answer": "Jude Bellingham",
+              "description": "Flest målgivende"
+          },
+          "6.3.3": {
+              "answer": "Frankrike",
+              "description": "Flest clean sheets"
+          },
+          "6.3.4": {
+              "answer": "Nei",
+              "description": "Thomas Muller mål"
+          },
+          "6.3.5": {
+              "answer": "Ja",
+              "description": "Ronaldo<Messi"
+          },
+          "6.3.6": {
+              "answer": "Ja",
+              "description": "Norsk landslagsspiller på tribunen"
+          },
+          "6.3.7": {
+              "answer": "Emmanuel Macron",
+              "description": "Kjendis under finalen"
+          },
+          "6.3.8": {
+              "answer": "Nei",
+              "description": "Lahm flere kamper enn Kroos"
+          },
+          "6.3.9": {
+              "answer": "Nei",
+              "description": "City straffet"
+          },
+          "6.3.10": {
+              "answer": "Sveits",
+              "description": "Færrest baklengs"
+          },
+          "6.3.11": {
+              "answer": "Three Lions",
+              "description": "Sang på tribunen"
+          },
+          "6.3.12": {
+              "answer": "Nei",
+              "description": "England ryker på straffer"
+          },
+          "6.3.13": {
+              "answer": "Ukraina",
+              "description": "Beste østblokk-land"
+          },
+          "6.3.14": {
+              "answer": "Lamine Yamal",
+              "description": "Yngste målscorer"
+          }
+        },
+        "leaderGuess": "Theodor",
+        "advancing": {
+            "last16": ["Tyskland", "Sveits", "England", "Danmark", "Spania", "Italia", "Frankrike", "Nederland", "Belgia", "Ukraina", "Portugal", "Tyrkia", "Kroatia", "Tsjekkia", "Slovenia", "Slovakia"],
+            "quarter": ["Tyskland", "Italia", "Spania", "England", "Portugal", "Nederland", "Belgia", "Frankrike"],
+            "semi": ["Tyskland", "Nederland", "Frankrike", "England"],
+            "final": ["Tyskland", "Frankrike"],
+            "winner": ["Frankrike"]
+        },
+        "team": ["Andriy Lunin", "Jamal Musiala", "Rodri", "Bukayo Saka", "Josko Gvardiol", "Phil Foden", "Kevin De Bruyne", "Florian Wirtz", "Jude Bellingham", "Harry Kane", "Kylian Mbappe"]
       },
 
       {
@@ -4757,7 +5139,198 @@
               "a": 2
             }
           }
-        ]
+        ],
+        "questions": {
+          "1.4.1": {
+              "answer": "Harry Kane",
+              "description": "gruppespill toppscorer"
+          },
+          "1.4.2": {
+              "answer": 7,
+              "description": "max antall mål i en kamp"
+          },
+          "1.4.3": {
+              "answer": "Kylian Mbappe",
+              "description": "Kane vs Mbappe"
+          },
+          "1.4.4": {
+              "answer": 5,
+              "description": "røde kort i gruppespillet"
+          },
+          "1.4.5": {
+              "answer": "Cristiano Ronaldo",
+              "description": "Portugisk toppscorer"
+          },
+          "1.4.6": {
+              "answer": 3,
+              "description": "Minste antall avanserende poeng"
+          },
+          "1.4.7": {
+              "answer": "Nei",
+              "description": "Slovakia støtte til Russland"
+          },
+          "2.2.1": {
+              "answer": 17,
+              "description": "Antall mål"
+          },
+          "2.2.2": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "2.2.3": {
+              "answer": "England",
+              "description": "Land med flest mål"
+          },
+          "2.2.4": {
+              "answer": "Nei",
+              "description": "Erna/Jonas innlegg"
+          },
+          "2.2.5": {
+              "answer": 2,
+              "description": "Antall røde kort"
+          },
+          "2.2.6": {
+              "answer": "Ja",
+              "description": "Keeper kort"
+          },
+          "3.2.1": {
+              "answer": 9,
+              "description": "Antall mål"
+          },
+          "3.2.2": {
+              "answer": "Harry Kane",
+              "description": "Toppscorer"
+          },
+          "3.2.3": {
+              "answer": "England",
+              "description": "Land med flest mål"
+          },
+          "3.2.4": {
+              "answer": "Bodø/Glimt",
+              "description": "Leder Eliteserien"
+          },
+          "3.2.5": {
+              "answer": 1,
+              "description": "Antall røde kort"
+          },
+          "4.2.1": {
+              "answer": "Ja",
+              "description": "Liverpool & United spillere"
+          },
+          "4.2.2": {
+              "answer": "Nei",
+              "description": "Ruud med i Wimbledon"
+          },
+          "4.2.3": {
+              "answer": 0,
+              "description": "Antall kamper med straffekonk"
+          },
+          "4.2.4": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "4.2.5": {
+              "answer": 6,
+              "description": "Gule kort"
+          },
+          "4.2.6": {
+              "answer": "Ja",
+              "description": "> 22 cornere"
+          },
+          "5.2.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Målscorer"
+          },
+          "5.2.2": {
+              "answer": "Nei",
+              "description": "Avgjort på ordinær tid"
+          },
+          "5.2.3": {
+              "answer": "Nei",
+              "description": "Avgjøres i ekstraomganger"
+          },
+          "5.2.4": {
+              "answer": "Nei",
+              "description": "Avgjøres på straffer"
+          },
+          "5.2.5": {
+              "answer": "Ja",
+              "description": "Jurgen Klopp til stede"
+          },
+          "5.2.6": {
+              "answer": "Ja",
+              "description": "Banestormer"
+          },
+          "5.2.7": {
+              "answer": "Bayern Munchen",
+              "description": "Klubblag med flest finalister"
+          },
+          "6.3.1": {
+              "answer": "Kylian Mbappe",
+              "description": "Toppscorer"
+          },
+          "6.3.2": {
+              "answer": "Antoine Griezmann",
+              "description": "Flest målgivende"
+          },
+          "6.3.3": {
+              "answer": "England",
+              "description": "Flest clean sheets"
+          },
+          "6.3.4": {
+              "answer": "Nei",
+              "description": "Thomas Muller mål"
+          },
+          "6.3.5": {
+              "answer": "Ja",
+              "description": "Ronaldo<Messi"
+          },
+          "6.3.6": {
+              "answer": "Nei",
+              "description": "Norsk landslagsspiller på tribunen"
+          },
+          "6.3.7": {
+              "answer": "Max Verstappen",
+              "description": "Kjendis under finalen"
+          },
+          "6.3.8": {
+              "answer": "Nei",
+              "description": "Lahm flere kamper enn Kroos"
+          },
+          "6.3.9": {
+              "answer": "Nei",
+              "description": "City straffet"
+          },
+          "6.3.10": {
+              "answer": "England",
+              "description": "Færrest baklengs"
+          },
+          "6.3.11": {
+              "answer": "We Are The Champions",
+              "description": "Sang på tribunen"
+          },
+          "6.3.12": {
+              "answer": "Nei",
+              "description": "England ryker på straffer"
+          },
+          "6.3.13": {
+              "answer": "Ukraina",
+              "description": "Beste østblokk-land"
+          },
+          "6.3.14": {
+              "answer": "Lamine Yamal",
+              "description": "Yngste målscorer"
+          }
+        },
+        "leaderGuess": "Stian",
+        "advancing": {
+            "last16": ["Tyskland", "Spania", "England", "Frankrike", "Sveits", "Italia", "Danmark", "Nederland", "Belgia", "Kroatia", "Ukraina", "Portugal", "Tyrkia", "Serbia", "Ungarn", "Romania"],
+            "quarter": ["Italia", "Tyskland", "England", "Spania", "Nederland", "Portugal", "Kroatia", "Frankrike"],
+            "semi": ["Frankrike", "England", "Nederland", "Tyskland"],
+            "final": ["Tyskland", "Frankrike"],
+            "winner": ["Frankrike"]
+        },
+        "team": ["Jordan Pickford", "Virgil Van Dijk", "Federico Dimarco", "Antonio Rudiger", "Joao Cancelo", "Romelu Lukaku", "Harry Kane", "Kylian Mbappe", "Antoine Griezmann", "Harry Kane", "Kylian Mbappe"]
       },
 
       {
