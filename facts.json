@@ -482,11 +482,26 @@
     },
   "leaderGuess": [""],
   "advancing": {
-    "last16": [],
-    "quarter": [],
-    "semi": [],
-    "final": [],
-    "winner": []
+    "last16": {
+      "teams": [],
+      "points": 20
+    },
+    "quarter": {
+      "teams": [],
+      "points": 30
+    },
+    "semi": {
+      "teams": [],
+      "points": 40
+    },
+    "final": {
+      "teams": [],
+      "points": 50
+    },
+    "winner": {
+      "teams": [],
+      "points": 150
+    }
   },
   "team": []
 }

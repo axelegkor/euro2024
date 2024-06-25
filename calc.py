@@ -39,12 +39,21 @@ def leaderGuess(guess, guesser):
         return 15
     return 0
 
+def advancing(advancing):
+    aPoints = 0
+    for round, teams in advancing.items():
+        for team in teams:
+            if team in facts["advancing"][round]["teams"]:
+                aPoints += facts["advancing"][round]["points"]
+    return aPoints
+
 def calculate_score(guess):
     name = guess["name"]
     score = 0
     score += groupMatches(guess["groupMatches"])
-    #score += questions(guess["questions"])
+    score += questions(guess["questions"])
     #score += leaderGuess(guess["leaderGuess"], name)
+    score += advancing(guess["advancing"])
     return (name, score)
 
 def calculate_table():
