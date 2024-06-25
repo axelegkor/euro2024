@@ -49,9 +49,13 @@ def calculate_score(guess):
 
 def calculate_table():
     table = []
+    gpt_entry = None
     for guess in guesses:
         name, score = calculate_score(guess)
-        table.append((name, score))
+        if name == "GPT":
+            gpt_entry = (name, score)
+        else:
+            table.append((name, score))
     
     # Sort the table by score in descending order
     sorted_table = sorted(table, key=lambda x: x[1], reverse=True)
@@ -69,6 +73,12 @@ def calculate_table():
             current_rank = rank
         formatted_table.append((rank, name, score))
     
+    # Insert the GPT entry if it exists
+    if gpt_entry:
+        gpt_rank = next((rank for rank, name, score in formatted_table if score <= gpt_entry[1]), current_rank)
+        gpt_entry_formatted = ("-", f"\033[90m{gpt_entry[0]}\033[0m", gpt_entry[1])
+        formatted_table.insert(gpt_rank - 1, gpt_entry_formatted)
+
     # Print the table
     print(tabulate(formatted_table, headers=["Placement", "Name", "Points"], tablefmt="pretty"))
 
