@@ -255,37 +255,37 @@
   },
   "questions": {
       "1.4.1": {
-        "answer": ["999"],
+        "answer": ["Georges Mikautadze"],
         "points": 20,
         "description": "gruppespill topscorer"
       },
       "1.4.2": {
-        "answer": [999],
+        "answer": [6],
         "points": 20,
         "description": "max antall mål i en kamp"
       },
       "1.4.3": {
-        "answer": ["999"],
+        "answer": ["Begge"],
         "points": 10,
         "description": "Kane vs Mbappe"
       },
       "1.4.4": {
-        "answer": [999],
+        "answer": [3],
         "points": 15,
         "description": "røde kort i gruppespillet"
       },
       "1.4.5": {
-        "answer": ["999"],
+        "answer": ["Bernardo Silva", "Bruno Fernandes", "Chico Conceicao"],
         "points": 15,
         "description": "Portugisk toppscorer"
       },
       "1.4.6": {
-        "answer": [999],
+        "answer": [3],
         "points": 20,
         "description": "Minste antall avanserende poeng"
       },
       "1.4.7": {
-        "answer": ["999"],
+        "answer": ["Nei"],
         "points": 20,
         "description": "Slovakia støtte til Russland"
       },

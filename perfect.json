@@ -292,7 +292,7 @@
   ],
   "questions": {
     "1.4.1": {
-      "answer": "Harry Kane",
+      "answer": "Georges Mikautadze",
       "description": "gruppespill topscorer"
     },
     "1.4.2": {
@@ -300,15 +300,15 @@
       "description": "max antall mål i en kamp"
     },
     "1.4.3": {
-      "answer": "Kylian Mbappe",
+      "answer": "Begge",
       "description": "Kane vs Mbappe"
     },
     "1.4.4": {
-      "answer": 5,
+      "answer": 3,
       "description": "røde kort i gruppespillet"
     },
     "1.4.5": {
-      "answer": "Cristiano Ronaldo",
+      "answer": "Bernardo Silva",
       "description": "Portugisk toppscorer"
     },
     "1.4.6": {
