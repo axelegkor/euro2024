@@ -25,7 +25,7 @@ def groupMatches(matches):
 def questions(questions):
     qPoints = 0
     for question, answer in questions.items():
-        if answer in facts["questions"][question]["answer"]:
+        if answer["answer"] in facts["questions"][question]["answer"]:
             qPoints += facts["questions"][question]["points"]
     return qPoints
 
