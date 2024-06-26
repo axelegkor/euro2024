@@ -52,7 +52,7 @@ def calculate_score(guess):
     score = 0
     score += groupMatches(guess["groupMatches"])
     score += questions(guess["questions"])
-    #score += leaderGuess(guess["leaderGuess"], name)
+    score += leaderGuess(guess["leaderGuess"], name)
     score += advancing(guess["advancing"])
     return (name, score)
 

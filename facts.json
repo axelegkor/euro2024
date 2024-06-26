@@ -480,26 +480,26 @@
         "description": "Yngste målscorer"
       }
     },
-  "leaderGuess": [""],
+  "leaderGuess": ["Axel", "Stian", "Sivert"],
   "advancing": {
     "last16": {
-      "teams": [],
+      "teams": ["Spania", "Georgia", "Tyskland", "Danmark", "Portugal", "Slovenia", "Frankrike", "Belgia", "Romania", "Nederland", "Østerrike", "Tyrkia", "England", "Slovakia", "Sveits", "Italia"],
       "points": 20
     },
     "quarter": {
-      "teams": [],
+      "teams": ["", "", "", "", "", "", "", ""],
       "points": 30
     },
     "semi": {
-      "teams": [],
+      "teams": ["", "", "", ""],
       "points": 40
     },
     "final": {
-      "teams": [],
+      "teams": ["", ""],
       "points": 50
     },
     "winner": {
-      "teams": [],
+      "teams": [""],
       "points": 150
     }
   },
