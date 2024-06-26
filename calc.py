@@ -103,3 +103,23 @@ def test_perfect():
     #return perfect
     return calculate_score(perfect)
 
+# Test that all advancing teams in guess are unique
+def test_advancing_unique():
+    for guess in guesses:
+        for round, teams in guess["advancing"].items():
+            if len(teams) != len(set(teams)):
+                return False
+    return True
+
+# Test that all guesses for advancing teams are at most of correct length
+def test_advancing_length():
+    for guess in guesses:
+        for round, teams in guess["advancing"].items():
+            if len(teams) > len(facts["advancing"][round]["teams"]):
+                return (False, guess["name"], round, teams)
+    return True
+
+
+#print(test_perfect())
+#print(test_advancing_unique())
+#print(test_advancing_length())
