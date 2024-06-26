@@ -120,6 +120,6 @@ def test_advancing_length():
     return True
 
 
-#print(test_perfect())
-#print(test_advancing_unique())
-#print(test_advancing_length())
+print("test perfect:", test_perfect())
+#print("test advancing unique:", test_advancing_unique())
+#print("test advancing length:", test_advancing_length())
