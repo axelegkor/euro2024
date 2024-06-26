@@ -92,3 +92,14 @@ def calculate_table():
     print(tabulate(formatted_table, headers=["Placement", "Name", "Points"], tablefmt="pretty"))
 
 calculate_table()
+
+
+# Tests
+
+# Test that a theoretical perfect guess gets max score
+def test_perfect():
+    with open('perfect.json', 'r') as file:
+        perfect = json.load(file)
+    #return perfect
+    return calculate_score(perfect)
+

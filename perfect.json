@@ -1,0 +1,484 @@
+{
+  "name": "Perfect",
+  "groupMatches": [
+    {
+      "name": "TysSko",
+      "res": "h",
+      "score": {
+        "h": 5,
+        "a": 1
+      }
+    },
+    {
+      "name": "UngSve",
+      "res": "b",
+      "score": {
+        "h": 1,
+        "a": 3
+      }
+    },
+    {
+      "name": "SpaKro",
+      "res": "h",
+      "score": {
+        "h": 3,
+        "a": 0
+      }
+    },
+    {
+      "name": "ItaAlb",
+      "res": "h",
+      "score": {
+        "h": 2,
+        "a": 1
+      }
+    },
+    {
+      "name": "PolNed",
+      "res": "b",
+      "score": {
+        "h": 1,
+        "a": 2
+      }
+    },
+    {
+      "name": "SvnDan",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "SerEng",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 1
+      }
+    },
+    {
+      "name": "RomUkr",
+      "res": "h",
+      "score": {
+        "h": 3,
+        "a": 0
+      }
+    },
+    {
+      "name": "BelSvk",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 1
+      }
+    },
+    {
+      "name": "OstFra",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 1
+      }
+    },
+    {
+      "name": "TyrGeo",
+      "res": "h",
+      "score": {
+        "h": 3,
+        "a": 1
+      }
+    },
+    {
+      "name": "PorTsj",
+      "res": "h",
+      "score": {
+        "h": 2,
+        "a": 1
+      }
+    },
+    {
+      "name": "KroAlb",
+      "res": "u",
+      "score": {
+        "h": 2,
+        "a": 2
+      }
+    },
+    {
+      "name": "TysUng",
+      "res": "h",
+      "score": {
+        "h": 2,
+        "a": 0
+      }
+    },
+    {
+      "name": "SkoSve",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "SvnSer",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "DanEng",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "SpaIta",
+      "res": "h",
+      "score": {
+        "h": 1,
+        "a": 0
+      }
+    },
+    {
+      "name": "SvkUkr",
+      "res": "b",
+      "score": {
+        "h": 1,
+        "a": 2
+      }
+    },
+    {
+      "name": "PolOst",
+      "res": "b",
+      "score": {
+        "h": 1,
+        "a": 3
+      }
+    },
+    {
+      "name": "NedFra",
+      "res": "u",
+      "score": {
+        "h": 0,
+        "a": 0
+      }
+    },
+    {
+      "name": "GeoTsj",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "TyrPor",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 3
+      }
+    },
+    {
+      "name": "BelRom",
+      "res": "h",
+      "score": {
+        "h": 2,
+        "a": 0
+      }
+    },
+    {
+      "name": "SveTys",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "SkoUng",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 1
+      }
+    },
+    {
+      "name": "AlbSpa",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 1
+      }
+    },
+    {
+      "name": "KroIta",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "FraPol",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "NedOst",
+      "res": "b",
+      "score": {
+        "h": 2,
+        "a": 3
+      }
+    },
+    {
+      "name": "DanSer",
+      "res": "u",
+      "score": {
+        "h": 0,
+        "a": 0
+      }
+    },
+    {
+      "name": "EngSvn",
+      "res": "u",
+      "score": {
+        "h": 0,
+        "a": 0
+      }
+    },
+    {
+      "name": "SvkRom",
+      "res": "u",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    },
+    {
+      "name": "UkrBel",
+      "res": "u",
+      "score": {
+        "h": 0,
+        "a": 0
+      }
+    },
+    {
+      "name": "GeoPor",
+      "res": "b",
+      "score": {
+        "h": 0,
+        "a": 2
+      }
+    },
+    {
+      "name": "TsjTyr",
+      "res": "b",
+      "score": {
+        "h": 1,
+        "a": 1
+      }
+    }
+  ],
+  "questions": {
+    "1.4.1": {
+      "answer": "Harry Kane",
+      "description": "gruppespill topscorer"
+    },
+    "1.4.2": {
+      "answer": 6,
+      "description": "max antall mål i en kamp"
+    },
+    "1.4.3": {
+      "answer": "Kylian Mbappe",
+      "description": "Kane vs Mbappe"
+    },
+    "1.4.4": {
+      "answer": 5,
+      "description": "røde kort i gruppespillet"
+    },
+    "1.4.5": {
+      "answer": "Cristiano Ronaldo",
+      "description": "Portugisk toppscorer"
+    },
+    "1.4.6": {
+      "answer": 3,
+      "description": "Minste antall avanserende poeng"
+    },
+    "1.4.7": {
+      "answer": "Nei",
+      "description": "Slovakia støtte til Russland"
+    },
+    "2.2.1": {
+      "answer": 23,
+      "description": "Antall mål"
+    },
+    "2.2.2": {
+      "answer": "Harry Kane",
+      "description": "Toppscorer"
+    },
+    "2.2.3": {
+      "answer": "England",
+      "description": "Land med flest mål"
+    },
+    "2.2.4": {
+      "answer": "Ja",
+      "description": "Erna/Jonas innlegg"
+    },
+    "2.2.5": {
+      "answer": 2,            
+      "description": "Antall røde kort"
+    },
+    "2.2.6": {
+      "answer": "Nei",            
+      "description": "Keeper kort"
+    },
+    "3.2.1": {
+      "answer": 11,            
+      "description": "Antall mål"
+    },
+    "3.2.2": {
+      "answer": "Kylian Mbappe",            
+      "description": "Toppscorer"
+    },
+    "3.2.3": {
+      "answer": "England",            
+      "description": "Land med flest mål"
+    },
+    "3.2.4": {
+      "answer": "Bodø/Glimt",            
+      "description": "Leder Eliteserien"
+    },
+    "3.2.5": {
+      "answer": 1,            
+      "description": "Antall røde kort"
+    },
+    "4.2.1": {
+      "answer": "Ja",            
+      "description": "Liverpool & United spillere"
+    },
+    "4.2.2": {
+      "answer": "Nei",            
+      "description": "Ruud med i Wimbledon"
+    },
+    "4.2.3": {
+      "answer": 0,            
+      "description": "Antall kamper med straffekonk"
+    },
+    "4.2.4": {
+      "answer": "Harry Kane",
+      "description": "Målscorer"
+    },
+    "4.2.5": {
+      "answer": 7,            
+      "description": "Gule kort"
+    },
+    "4.2.6": {
+      "answer": "Nei",            
+      "description": "> 22 cornere"
+    },
+    "5.2.1": {
+      "answer": "Kylian Mbappe",
+      "description": "Målscorer"
+    },
+    "5.2.2": {
+      "answer": "Ja",            
+      "description": "Avgjort på ordinær tid"
+    },
+    "5.2.3": {
+      "answer": "Nei",            
+      "description": "Avgjøres i ekstraomganger"
+    },
+    "5.2.4": {
+      "answer": "Nei",            
+      "description": "Avgjøres på straffer"
+    },
+    "5.2.5": {
+      "answer": "Ja",            
+      "description": "Jurgen Klopp til stede"
+    },
+    "5.2.6": {
+      "answer": "Nei",            
+      "description": "Banestormer"
+    },
+    "5.2.7": {
+      "answer": "Bayern Munchen",            
+      "description": "Klubblag med flest finalister"
+    },
+    "6.3.1": {
+      "answer": "Harry Kane",
+      "description": "Toppscorer"
+    },
+    "6.3.2": {
+      "answer": "Bruno Fernandes",            
+      "description": "Flest målgivende"
+    },
+    "6.3.3": {
+      "answer": "Tyskland",            
+      "description": "Flest clean sheets"
+    },
+    "6.3.4": {
+      "answer": "Nei",            
+      "description": "Thomas Muller mål"
+    },
+    "6.3.5": {
+      "answer": "Ja",            
+      "description": "Ronaldo<Messi"
+    },
+    "6.3.6": {
+      "answer": "Ja",            
+      "description": "Norsk landslagsspiller på tribunen"
+    },
+    "6.3.7": {
+      "answer": "Lando Norris",            
+      "description": "Kjendis under finalen"
+    },
+    "6.3.8": {
+      "answer": "Nei",            
+      "description": "Lahm flere kamper enn Kroos"
+    },
+    "6.3.9": {
+      "answer": "Nei",            
+      "description": "City straffet"
+    },
+    "6.3.10": {
+      "answer": "Italia",            
+      "description": "Færrest baklengs"
+    },
+    "6.3.11": {
+      "answer": "Three Lions",            
+      "description": "Sang på tribunen"
+    },
+    "6.3.12": {
+      "answer": "Nei",            
+      "description": "England ryker på straffer"
+    },
+    "6.3.13": {
+      "answer": "Kroatia",            
+      "description": "Beste østblokk-land"
+    },
+    "6.3.14": {
+      "answer": "Lamine Yamal",            
+      "description": "Yngste målscorer"
+    }
+  },
+  "leaderGuess": "Axel",
+  "advancing": {
+    "last16": ["Tyskland", "Sveits", "Spania", "Italia", "Kroatia", "England", "Danmark", "Serbia", "Frankrike", "Nederland", "Belgia", "Ukraina", "Romania", "Portugal", "Tyrkia", "Tsjekkia"],
+    "quarter": ["Tyskland", "Spania", "Portugal", "Nederland", "Belgia", "Frankrike", "England", "Italia"],
+    "semi": ["Tyskland", "Portugal", "England", "Frankrike"],
+    "final": ["England", "Frankrike"],
+    "winner": ["England"]
+  },
+  "team": ["Mike Maignan", "Antonio Rudiger", "Declan Rice", "Joshua Kimmich", "Toni Kroos", "Jude Bellingham", "Jude Bellingham", "Kylian Mbappe", "Kylian Mbappe", "Harry Kane", "Harry Kane"]
+}
