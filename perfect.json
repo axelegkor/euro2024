@@ -320,15 +320,15 @@
       "description": "Slovakia støtte til Russland"
     },
     "2.2.1": {
-      "answer": 23,
+      "answer": 19,
       "description": "Antall mål"
     },
     "2.2.2": {
-      "answer": "Harry Kane",
+      "answer": "Donyell Malen",
       "description": "Toppscorer"
     },
     "2.2.3": {
-      "answer": "England",
+      "answer": "Spania",
       "description": "Land med flest mål"
     },
     "2.2.4": {
@@ -336,7 +336,7 @@
       "description": "Erna/Jonas innlegg"
     },
     "2.2.5": {
-      "answer": 2,            
+      "answer": 1,            
       "description": "Antall røde kort"
     },
     "2.2.6": {
@@ -475,7 +475,7 @@
   "leaderGuess": "Axel",
   "advancing": {
     "last16": ["Spania", "Georgia", "Tyskland", "Danmark", "Portugal", "Slovenia", "Frankrike", "Belgia", "Romania", "Nederland", "Østerrike", "Tyrkia", "England", "Slovakia", "Sveits", "Italia"],
-    "quarter": ["Tyskland", "Spania", "Portugal", "Nederland", "Belgia", "Frankrike", "England", "Italia"],
+    "quarter": ["Tyskland", "Spania", "Portugal", "Nederland", "Tyrkia", "Frankrike", "England", "Sveits"],
     "semi": ["Tyskland", "Portugal", "England", "Frankrike"],
     "final": ["England", "Frankrike"],
     "winner": ["England"]

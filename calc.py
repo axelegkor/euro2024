@@ -101,7 +101,7 @@ def test_perfect():
     with open('perfect.json', 'r') as file:
         perfect = json.load(file)
     #return perfect
-    return calculate_score(perfect)
+    return (calculate_score(perfect)[0], calculate_score(perfect)[1] + 15)
 
 # Test that all advancing teams in guess are unique
 def test_advancing_unique():
