@@ -290,32 +290,32 @@
         "description": "Slovakia støtte til Russland"
       },
       "2.2.1": {
-        "answer": [999],
+        "answer": [19],
         "points": 20,
         "description": "Antall mål"
       },
       "2.2.2": {
-        "answer": ["999"],
+        "answer": ["Donyell Malen", "Merih Demiral"],
         "points": 20,
         "description": "Toppscorer"
       },
       "2.2.3": {
-        "answer": ["999"],
+        "answer": ["Spania"],
         "points": 15,
         "description": "Land med flest mål"
       },
       "2.2.4": {
-        "answer": ["999"],
+        "answer": ["Ja"],
         "points": 15,
         "description": "Erna/Jonas innlegg"
       },
       "2.2.5": {
-        "answer": [999],
+        "answer": [1],
         "points": 15,
         "description": "Antall røde kort"
       },
       "2.2.6": {
-        "answer": ["999"],
+        "answer": ["Nei"],
         "points": 15,
         "description": "Keeper kort"
       },
@@ -487,7 +487,7 @@
       "points": 20
     },
     "quarter": {
-      "teams": ["", "", "", "", "", "", "", ""],
+      "teams": ["Spania", "Tyskland", "Portugal", "Frankrike", "Nederland", "Tyrkia", "England", "Sveits"],
       "points": 30
     },
     "semi": {
