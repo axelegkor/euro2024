@@ -91,7 +91,39 @@ def calculate_table():
     # Print the table
     print(tabulate(formatted_table, headers=["Placement", "Name", "Points"], tablefmt="pretty"))
 
-calculate_table()
+
+def winner_guesses_table_sorted():
+    # Calculate the current standings
+    standings = []
+    for guess in guesses:
+        name, score = calculate_score(guess)
+        standings.append((name, score))
+    
+    # Sort the standings by score in descending order
+    sorted_standings = sorted(standings, key=lambda x: x[1], reverse=True)
+    
+    # Create a dictionary to map names to their rank
+    rank_map = {name: rank + 1 for rank, (name, score) in enumerate(sorted_standings)}
+    
+    # Create a list to hold the formatted table data
+    table_data = []
+    
+    for guess in guesses:
+        name = guess["name"]
+        finalist_guess = guess["advancing"]["final"]
+        winner_guess = guess["advancing"]["winner"][0]
+        table_data.append((rank_map[name], name, finalist_guess[0] + " - " + finalist_guess[1], winner_guess))
+    
+    # Sort the table data by rank
+    sorted_table_data = sorted(table_data, key=lambda x: x[0])
+    
+    # Prepare the final table without the rank
+    final_table_data = [(name, finalists, winner) for _, name, finalists, winner in sorted_table_data]
+    
+    # Print the table
+    print(tabulate(final_table_data, headers=["Player", "Finalists Guess", "Winner Guess"], tablefmt="pretty"))
+
+
 
 
 # Tests
@@ -119,6 +151,9 @@ def test_advancing_length():
                 return (False, guess["name"], round, teams)
     return True
 
+
+calculate_table()
+#winner_guesses_table_sorted()
 
 print("test perfect:", test_perfect())
 #print("test advancing unique:", test_advancing_unique())
