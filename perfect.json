@@ -380,7 +380,7 @@
       "description": "Målscorer"
     },
     "4.2.5": {
-      "answer": 7,            
+      "answer": 10,            
       "description": "Gule kort"
     },
     "4.2.6": {
@@ -477,7 +477,7 @@
     "last16": ["Spania", "Georgia", "Tyskland", "Danmark", "Portugal", "Slovenia", "Frankrike", "Belgia", "Romania", "Nederland", "Østerrike", "Tyrkia", "England", "Slovakia", "Sveits", "Italia"],
     "quarter": ["Tyskland", "Spania", "Portugal", "Nederland", "Tyrkia", "Frankrike", "England", "Sveits"],
     "semi": ["Spania", "Nederland", "England", "Frankrike"],
-    "final": ["England", "Frankrike"],
+    "final": ["England", "Spania"],
     "winner": ["England"]
   },
   "team": ["Mike Maignan", "Antonio Rudiger", "Declan Rice", "Joshua Kimmich", "Toni Kroos", "Jude Bellingham", "Jude Bellingham", "Kylian Mbappe", "Kylian Mbappe", "Harry Kane", "Harry Kane"]

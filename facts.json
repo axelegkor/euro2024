@@ -345,32 +345,32 @@
         "description": "Antall røde kort"
       },
       "4.2.1": {
-        "answer": ["999"],
+        "answer": ["Ja"],
         "points": 10,
         "description": "Liverpool & United spillere"
       },
       "4.2.2": {
-        "answer": ["999"],
+        "answer": ["Nei"],
         "points": 10,
         "description": "Ruud med i Wimbledon"
       },
       "4.2.3": {
-        "answer": [999],
+        "answer": [0],
         "points": 15,
         "description": "Antall kamper med straffekonk"
       },
       "4.2.4": {
-        "answer": ["999"],
+        "answer": ["Randal Kolo Muani", "Lamine Yamal", "Dani Olmo", "Xavi Simons", "Harry Kane", "Ollie Watkins"],
         "points": 40,
         "description": "Målscorer"
       },
       "4.2.5": {
-        "answer": [999],
+        "answer": [10],
         "points": 25,
         "description": "Gule kort"
       },
       "4.2.6": {
-        "answer": ["999"],
+        "answer": ["Nei"],
         "points": 20,
         "description": "> 22 cornere"
       },
@@ -495,7 +495,7 @@
       "points": 40
     },
     "final": {
-      "teams": ["", ""],
+      "teams": ["Spania", "England"],
       "points": 50
     },
     "winner": {
