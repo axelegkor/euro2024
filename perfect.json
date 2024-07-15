@@ -388,7 +388,7 @@
       "description": "> 22 cornere"
     },
     "5.2.1": {
-      "answer": "Kylian Mbappe",
+      "answer": "Cole Palmer",
       "description": "Målscorer"
     },
     "5.2.2": {
@@ -412,7 +412,7 @@
       "description": "Banestormer"
     },
     "5.2.7": {
-      "answer": "Bayern Munchen",            
+      "answer": "Real Sociedad",            
       "description": "Klubblag med flest finalister"
     },
     "6.3.1": {
@@ -420,11 +420,11 @@
       "description": "Toppscorer"
     },
     "6.3.2": {
-      "answer": "Bruno Fernandes",            
+      "answer": "Lamine Yamal",            
       "description": "Flest målgivende"
     },
     "6.3.3": {
-      "answer": "Tyskland",            
+      "answer": "Frankrike",            
       "description": "Flest clean sheets"
     },
     "6.3.4": {
@@ -452,7 +452,7 @@
       "description": "City straffet"
     },
     "6.3.10": {
-      "answer": "Italia",            
+      "answer": "Belgia",            
       "description": "Færrest baklengs"
     },
     "6.3.11": {
@@ -464,7 +464,7 @@
       "description": "England ryker på straffer"
     },
     "6.3.13": {
-      "answer": "Kroatia",            
+      "answer": "Romania",            
       "description": "Beste østblokk-land"
     },
     "6.3.14": {
@@ -478,7 +478,7 @@
     "quarter": ["Tyskland", "Spania", "Portugal", "Nederland", "Tyrkia", "Frankrike", "England", "Sveits"],
     "semi": ["Spania", "Nederland", "England", "Frankrike"],
     "final": ["England", "Spania"],
-    "winner": ["England"]
+    "winner": ["Spania"]
   },
   "team": ["Mike Maignan", "Antonio Rudiger", "Declan Rice", "Joshua Kimmich", "Toni Kroos", "Jude Bellingham", "Jude Bellingham", "Kylian Mbappe", "Kylian Mbappe", "Harry Kane", "Harry Kane"]
 }
