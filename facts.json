@@ -440,7 +440,7 @@
         "description": "Norsk landslagsspiller på tribunen"
       },
       "6.3.7": {
-        "answer": ["Lando Norris"],
+        "answer": ["Lando Norris", "IShowSpeed"],
         "points": 20,
         "description": "Kjendis under finalen"
       },
@@ -460,7 +460,7 @@
         "description": "Færrest baklengs"
       },
       "6.3.11": {
-        "answer": ["Three Lions", "Re-sepp-ten", "Hey Jude", "Seven Nation Army", "Fire"],
+        "answer": ["Three Lions", "Re-sepp-ten", "Hey Jude", "Seven Nation Army", "Fire", "We Are The Champions"],
         "points": 10,
         "description": "Sang på tribunen"
       },
@@ -503,5 +503,5 @@
       "points": 150
     }
   },
-  "team": []
+  "team": ["Mike Maignan", "William Saliba", "Manuel Akanji", "Marc Cucurella", "Kyle Walker", "Rodri", "Fabian Ruiz", "Dani Olmo", "Nico Williams", "Jamal Musiala", "Lamine Yamal"]
 }

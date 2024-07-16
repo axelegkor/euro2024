@@ -47,6 +47,13 @@ def advancing(advancing):
                 aPoints += facts["advancing"][round]["points"]
     return aPoints
 
+def team(teamGuess):
+    tPoints = 0
+    for player in teamGuess:
+        if player in facts["team"]:
+            tPoints += 20
+    return tPoints
+
 def calculate_score(guess):
     name = guess["name"]
     score = 0
@@ -54,6 +61,7 @@ def calculate_score(guess):
     score += questions(guess["questions"])
     score += leaderGuess(guess["leaderGuess"], name)
     score += advancing(guess["advancing"])
+    score += team(guess["team"])
     return (name, score)
 
 def calculate_table():
